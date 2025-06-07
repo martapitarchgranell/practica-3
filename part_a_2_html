@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ESP32 Web Server</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 50px; }
+        h1 { color: #333; }
+        .status { font-size: 20px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Benvingut al Web Server de l'ESP32 🚀</h1>
+    <p class="status">El teu ESP32 està funcionant correctament!</p>
+</body>
+</html>
